@@ -1,5 +1,3 @@
-The product link: https://www.amazon.ca/Apple-iPhone-128GB-Green-Renewed/dp/B0CMPMTL69/ref=sr_1_2?crid=UXP6U4SCGKRV&dib=eyJ2IjoiMSJ9.txo3w1r9hJwjpQx7HR49HfVUeRn_QiZ_vw99sEI3FV50phLvF58jP8UG3A6msHvDzStGB1OblA9fsraOzrEFDxduW45iOt8ETZPyQbd8iXBHq__Aax0Twnsc1xAHGjyS2LmNcl22YgpROhanNlfJnj4px-mXv-eKeq-ZoUei5Otj65wgcmA2H68ZYFzgdn6bp6RL8rTqlByx4fjIfyHBwHUOWdxnguzPzlJhKriQ6_3PEve03O1FvPIK-N0_A4MoOmLxhPJVF_SFYJmBFXAbeLZokKi_IITVbFKY108wEhc.OAlaNP4H70bkfst4cn1Linu8tTgmrPgOP3IZxaTfuv8&dib_tag=se&keywords=Iphone%2B16&qid=1731290432&sprefix=iphone%2B16%2Caps%2C149&sr=8-2&th=1
-
 Amazon Product Price Tracker
 This project is an Amazon product price tracker built with Python. Using the BeautifulSoup library, it scrapes product information 
 (such as title, price, and rating) from Amazon. The data is stored in a CSV file for further analysis, and if the product price drops below $1000,
@@ -31,6 +29,9 @@ smtplib: For sending email notifications.
 
 Email Alert Example
 If the price drops below $1000, you will receive an email alert with the following subject:
+
+The product link: https://www.amazon.ca/Apple-iPhone-128GB-Green-Renewed/dp/B0CMPMTL69/ref=sr_1_2?crid=UXP6U4SCGKRV&dib=eyJ2IjoiMSJ9.txo3w1r9hJwjpQx7HR49HfVUeRn_QiZ_vw99sEI3FV50phLvF58jP8UG3A6msHvDzStGB1OblA9fsraOzrEFDxduW45iOt8ETZPyQbd8iXBHq__Aax0Twnsc1xAHGjyS2LmNcl22YgpROhanNlfJnj4px-mXv-eKeq-ZoUei5Otj65wgcmA2H68ZYFzgdn6bp6RL8rTqlByx4fjIfyHBwHUOWdxnguzPzlJhKriQ6_3PEve03O1FvPIK-N0_A4MoOmLxhPJVF_SFYJmBFXAbeLZokKi_IITVbFKY108wEhc.OAlaNP4H70bkfst4cn1Linu8tTgmrPgOP3IZxaTfuv8&dib_tag=se&keywords=Iphone%2B16&qid=1731290432&sprefix=iphone%2B16%2Caps%2C149&sr=8-2&th=1
+
 
 The iPhone you want is below $1000! Now is your chance to buy!
 
