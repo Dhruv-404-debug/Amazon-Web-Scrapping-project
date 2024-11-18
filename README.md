@@ -1,4 +1,4 @@
-Amazon Product Price Tracker
+# Amazon Product Price Tracker
 This project is an Amazon product price tracker built with Python. Using the BeautifulSoup library, it scrapes product information 
 (such as title, price, and rating) from Amazon. The data is stored in a CSV file for further analysis, and if the product price drops below $1000,
 an email notification is sent automatically.
